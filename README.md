@@ -20,7 +20,7 @@ File proyek lengkap, termasuk basis data SQL, telah dikompresi dalam format ZIP 
 
 ## 🎯 Tujuan Repositori
 
-Repositori ini bertujuan untuk mendokumentasikan proyek-proyek web yang pernah saya kerjakan sebagai referensi di masa depan dan sebagai bagian dari portofolio saya. Semua kode dan dokumentasi di repositori ini adalah milik pribadi saya dan tidak dapat digunakan kembali tanpa izin.
+Repositori ini bertujuan untuk mendokumentasikan proyek-proyek web yang pernah saya kerjakan sebagai referensi di masa depan dan sebagai bagian dari portofolio saya. **Semua kode dan dokumentasi di repositori ini adalah milik pihak yang membayar dan tidak dapat digunakan kembali tanpa izin. Jika ada yang melakukan tindakan yang merugikan terhadap pemilik dan pembuat (saya sendiri), maka itu akan dikenakan sanksi yang berlaku.**
 
 ## 📬 Kontak
 
