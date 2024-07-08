@@ -6,29 +6,17 @@ Repositori ini berisi dokumentasi dari proyek-proyek web yang telah saya selesai
 
 ### Proyek 1: Nama Proyek
 - **Deskripsi**: Deskripsi singkat tentang proyek ini.
-- **Teknologi yang Digunakan**: 
-  - HTML
-  - CSS
-  - JavaScript
-  - [Teknologi Lainnya]
-- **Fitur Utama**: 
-  - Fitur 1
-  - Fitur 2
-  - Fitur 3
-- **Tautan Proyek**: [URL Proyek]
 
 ### Proyek 2: Nama Proyek
 - **Deskripsi**: Deskripsi singkat tentang proyek ini.
-- **Teknologi yang Digunakan**: 
-  - HTML
-  - CSS
-  - JavaScript
-  - [Teknologi Lainnya]
-- **Fitur Utama**: 
-  - Fitur 1
-  - Fitur 2
-  - Fitur 3
-- **Tautan Proyek**: [URL Proyek]
+
+## Informasi Lisensi
+
+Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Untuk informasi lebih lanjut mengenai lisensi, silakan merujuk ke file `LICENSE`.
+
+## File Proyek
+
+File proyek lengkap, termasuk basis data SQL, telah dikompresi dalam format ZIP dan diunggah ke repositori ini. File ZIP tersebut dilindungi dengan kata sandi yang hanya saya ketahui. Dokumentasi terperinci dapat ditemukan dalam file README khusus untuk setiap proyek, bersama dengan tangkapan layar (screenshot) proyek.
 
 ## Tujuan Repositori
 
