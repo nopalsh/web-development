@@ -37,7 +37,7 @@ Website ini dirancang untuk memudahkan proses pendaftaran beasiswa bagi mahasisw
 
 ## 🆓 Informasi Tambahan
 
-Proyek ini gratis untuk semua orang. Anda dapat menggunakan, memodifikasi, dan mendistribusikannya sesuai kebutuhan Anda, selama mematuhi ketentuan lisensi Apache License 2.0.
+Proyek ini gratis untuk semua orang. Anda dapat menggunakan, memodifikasi, dan mendistribusikannya sesuai kebutuhan Anda, selama mencantum pengembang.
 
 ## 👥 Kontributor
 
