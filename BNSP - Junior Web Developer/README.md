@@ -9,7 +9,7 @@ Oleh:
 
 ## 📜 Deskripsi Proyek
 
-Website ini dirancang untuk memudahkan proses pendaftaran beasiswa bagi mahasiswa. Proyek ini mencakup sisi client dan admin, serta menggunakan teknologi HTML, CSS, Bootstrap, PHP, MySQL, dan XAMPP.
+Website ini dirancang untuk memudahkan proses pendaftaran beasiswa bagi mahasiswa. Proyek ini mencakup sisi client dan admin, serta menggunakan teknologi HTML, CSS, Bootstrap, PHP (Native) CRUD, MySQL, dan XAMPP.
 
 ### 🌟 Fitur Utama
 
@@ -31,7 +31,7 @@ Website ini dirancang untuk memudahkan proses pendaftaran beasiswa bagi mahasisw
 - **HTML**: Untuk struktur halaman web.
 - **CSS**: Untuk styling halaman web.
 - **Bootstrap**: Untuk desain responsif dan komponen UI.
-- **PHP**: Untuk pengolahan data di server.
+- **PHP (Native)**: Untuk pengolahan data di server.
 - **MySQL**: Untuk basis data.
 - **XAMPP**: Untuk lingkungan pengembangan.
 
