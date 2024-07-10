@@ -1,6 +1,6 @@
 # Project Archive 📁
 
-Repositori ini dibuat hanya sebagai arsip pribadi dan portofolio pekerjaan saya. Semua proyek sudah 99% sesuai dengan milik client. Semua hak kepemilikan dari proyek-proyek ini telah sepenuhnya diserahkan kepada client. File proyek lengkap telah dikompresi dalam format ZIP yang dikasih password setelah itu dienkripsi, dan diunggah ke repositori ini. Password ZIP dan kunci enkripsi hanya saya yang mengetahuinya. Anda bisa melihat screenshot proyek jika ingin gambaran proyeknya.
+Repositori ini dibuat hanya sebagai arsip pribadi dan portofolio pekerjaan saya. Semua proyek sudah 99% sesuai dengan permintaan client. Semua hak kepemilikan dari proyek-proyek ini telah sepenuhnya diserahkan kepada client. File proyek lengkap telah dikompresi dalam format ZIP yang dikasih password setelah itu dienkripsi, dan diunggah ke repositori ini. Password ZIP dan kunci enkripsi hanya saya yang mengetahuinya. Anda bisa melihat screenshot proyek jika ingin gambaran proyeknya.
 
 ## Daftar Proyek Web 🌐
 
