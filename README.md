@@ -1,31 +1,32 @@
-# 🗄️ Web Project Archive
+# Project Archive 📁
 
-Repositori ini berisi dokumentasi dari proyek-proyek web yang telah saya selesaikan dan sudah dibayar. Semua hak kepemilikan dari proyek-proyek ini telah sepenuhnya diserahkan kepada pihak yang membayar. Repositori ini dibuat sebagai arsip pribadi dan portofolio pekerjaan saya.
+Repositori ini dibuat hanya sebagai arsip pribadi dan portofolio pekerjaan saya. Semua proyek sudah 99% sesuai dengan milik client. Semua hak kepemilikan dari proyek-proyek ini telah sepenuhnya diserahkan kepada client. File proyek lengkap telah dikompresi dalam format ZIP yang dikasih password setelah itu dienkripsi, dan diunggah ke repositori ini. Password ZIP dan kunci enkripsi hanya saya yang mengetahuinya. Anda bisa melihat screenshot proyek jika ingin gambaran proyeknya.
 
-## 📂 Daftar Proyek
+## Daftar Proyek Web 🌐
 
-### Proyek 1: Nama Proyek
-- **📝 Deskripsi**: Deskripsi singkat tentang proyek ini.
+### 1. K-Means Mahasiswa
+- **Teknologi**: Streamlit
+- **Link Proyek**: [K-Means Mahasiswa](https://github.com/nopalsh/web-project-archive/tree/main/KMeans%20Mahasiswa)
+- **Deskripsi**:
+  - Membuat 3 klaster di setiap mahasiswa berdasarkan IP.
+  - Mencari nilai-nilai centroid di setiap klaster.
+  - Visualisasi scatter plot penyebaran data IPK mahasiswa.
+  - Didapatkan MAPE 0,0278.
 
-### Proyek 2: Nama Proyek
-- **📝 Deskripsi**: Deskripsi singkat tentang proyek ini.
+### 2. KNN Bunga Iris
+- **Teknologi**: HTML, CSS, Bootstrap, PHP, PHP-ML
+- **Link Proyek**: [KNN Bunga Iris](https://github.com/nopalsh/web-project-archive/tree/main/KNN%20Bunga%20Iris)
+- **Deskripsi**:
+  - Melakukan klasifikasi bunga iris dengan algoritma K-Nearest Neighbors (KNN) menggunakan library PHP-ML ([PHP-ML Documentation](https://php-ml.readthedocs.io/en/latest/)).
+  - Input fitur bunga iris.
+  - Input nilai K.
+  - Menampilkan hasil genus bunga sesuai dengan fitur bunga iris.
+  - Tabel jarak Euclidean, confusion matrix, tabel TP, TN, FP, FN, dan akurasi.
+  - Akurasi didapatkan 96%.
 
-## 📜 Informasi Lisensi
-
-Semua proyek dalam repositori ini dilisensikan di bawah Apache License 2.0. Untuk informasi lebih lanjut mengenai lisensi, silakan merujuk ke file `LICENSE`.
-
-## 📦 File Proyek
-
-File proyek lengkap, termasuk basis data SQL, telah dikompresi dalam format ZIP dan diunggah ke repositori ini. File ZIP tersebut dilindungi dengan kata sandi yang hanya saya ketahui. Dokumentasi terperinci dapat ditemukan dalam file README khusus untuk setiap proyek, bersama dengan tangkapan layar (screenshot) proyek.
-
-## 🎯 Tujuan Repositori
-
-Repositori ini bertujuan untuk mendokumentasikan proyek-proyek web yang pernah saya kerjakan sebagai referensi di masa depan dan sebagai bagian dari portofolio saya. **Semua kode dan dokumentasi di repositori ini adalah milik pihak yang membayar dan tidak dapat digunakan kembali tanpa izin. Jika ada yang melakukan tindakan yang merugikan terhadap pemilik dan pembuat (saya sendiri), maka itu akan dikenakan sanksi yang berlaku.**
-
-## 📬 Kontak
-
-Untuk informasi lebih lanjut, Anda dapat menghubungi saya melalui:
-- **✉️ Email**: [alamat email Anda]
-- **🔗 LinkedIn**: [tautan LinkedIn Anda]
-
-Terima kasih telah mengunjungi repositori ini.
+### 3. Homepage Perusahaan PT. Systema Wira Abinawa (SWA)
+- **Teknologi**: HTML, CSS, Bootstrap
+- **Link Proyek**: [Homepage PT. Systema Wira Abinawa (SWA)](https://github.com/nopalsh/web-project-archive/tree/main/PT.%20SWA%20Web%20Homepage)
+- **Deskripsi**:
+  - Halaman utama dari PT. Systema Wira Abinawa (SWA).
+  - Menjelaskan tentang perusahaan, layanan perusahaan, dan direktur perusahaan.
