@@ -30,3 +30,16 @@ Repositori ini dibuat hanya sebagai arsip pribadi dan portofolio pekerjaan saya.
 - **Deskripsi**:
   - Halaman utama dari PT. Systema Wira Abinawa (SWA).
   - Menjelaskan tentang perusahaan, layanan perusahaan, dan direktur perusahaan.
+
+## 👥 Pengembang Proyek
+
+- **Mochamad Naufal Shofy** - Pengembang Utama
+
+## 📬 Kontak
+
+Untuk informasi lebih lanjut, Anda dapat menghubungi saya melalui:
+- **✉️ Email**: naufalshofy38@gmail.com
+- **🔗 LinkedIn**: [Mochamad Naufal Shofy](https://www.linkedin.com/in/mochamad-naufal-shofy)
+
+Terima kasih telah mengunjungi repositori ini
+
