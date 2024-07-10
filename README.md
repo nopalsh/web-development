@@ -8,7 +8,7 @@ Repositori ini dibuat hanya sebagai arsip pribadi dan portofolio pekerjaan saya.
 - **Teknologi**: Streamlit
 - **Link Proyek**: [K-Means Mahasiswa](https://github.com/nopalsh/web-project-archive/tree/main/KMeans%20Mahasiswa)
 - **Deskripsi**:
-  - Membuat 3 klaster di setiap mahasiswa berdasarkan IP.
+  - Membuat 3 klaster di setiap mahasiswa berdasarkan IPK.
   - Mencari nilai-nilai centroid di setiap klaster.
   - Visualisasi scatter plot penyebaran data IPK mahasiswa.
   - Didapatkan MAPE 0,0278.
